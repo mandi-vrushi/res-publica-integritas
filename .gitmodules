@@ -1,0 +1,3 @@
+[submodule "frontend/apps/android/id-reader"]
+	path = frontend/apps/android/id-reader
+	url = git@github.com:mandi-vrushi/id-reader-android.git

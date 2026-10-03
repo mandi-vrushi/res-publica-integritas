@@ -4,3 +4,6 @@
 [submodule "infra"]
 	path = infra
 	url = git@github.com:mandi-vrushi/infra.git
+[submodule "frontend/apps/pseudo"]
+	path = frontend/apps/pseudo
+	url = git@github.com:mandi-vrushi/pseudo.git

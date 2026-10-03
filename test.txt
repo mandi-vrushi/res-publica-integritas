@@ -1,0 +1,4 @@
+Project review: the umbrella repository contains the Android e-passport/eID reader at frontend/apps/android/id-reader/; backend/ and infra/ are placeholders. The reader handles MRZ scanning and NFC chip authentication, with offline certificate and CRL trust data. See the subproject README and Claude.md for build instructions and security constraints. The umbrella repository is public, so keep this file free of secrets and sensitive project details.
+
+
+secret code: 1234

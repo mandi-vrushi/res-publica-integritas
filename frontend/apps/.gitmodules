@@ -1,3 +1,0 @@
-[submodule "pseudo"]
-	path = frontend/apps/pseudo
-	url = git@github.com:mandi-vrushi/pseudo.git

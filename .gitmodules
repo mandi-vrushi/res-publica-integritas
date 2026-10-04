@@ -7,3 +7,6 @@
 [submodule "frontend/apps/pseudo"]
 	path = frontend/apps/pseudo
 	url = git@github.com:mandi-vrushi/pseudo.git
+[submodule "frontend/apps/tauri"]
+	path = frontend/apps/tauri
+	url = git@github.com:mandi-vrushi/id-reader-tauri.git

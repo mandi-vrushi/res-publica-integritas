@@ -10,3 +10,6 @@
 [submodule "frontend/apps/tauri"]
 	path = frontend/apps/tauri
 	url = git@github.com:mandi-vrushi/id-reader-tauri.git
+[submodule "frontend/apps/ios"]
+	path = frontend/apps/ios
+	url = git@github.com:mandi-vrushi/id-reader-ios.git

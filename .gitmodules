@@ -13,3 +13,6 @@
 [submodule "frontend/apps/ios"]
 	path = frontend/apps/ios
 	url = git@github.com:mandi-vrushi/id-reader-ios.git
+[submodule "frontend/apps/pseudo_wallet"]
+	path = frontend/apps/pseudo_wallet
+	url = git@github.com:mandi-vrushi/pseudo_wallet.git

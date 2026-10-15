@@ -16,3 +16,6 @@
 [submodule "frontend/apps/pseudo_wallet"]
 	path = frontend/apps/pseudo_wallet
 	url = git@github.com:mandi-vrushi/pseudo_wallet.git
+[submodule "backend/pseudo_agora"]
+	path = backend/pseudo_agora
+	url = git@github.com:mandi-vrushi/pseudo_agora.git

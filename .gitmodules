@@ -19,3 +19,6 @@
 [submodule "backend/pseudo_agora"]
 	path = backend/pseudo_agora
 	url = git@github.com:mandi-vrushi/pseudo_agora.git
+[submodule "frontend/apps/android/evID"]
+	path = frontend/apps/android/evID
+	url = git@github.com:mandi-vrushi/evid-android.git

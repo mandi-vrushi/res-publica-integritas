@@ -22,3 +22,6 @@
 [submodule "frontend/apps/android/evID"]
 	path = frontend/apps/android/evID
 	url = git@github.com:mandi-vrushi/evid-android.git
+[submodule "eMRTD-test-production"]
+	path = eMRTD-test-production
+	url = git@github.com:mandi-vrushi/eMRTD-test-production.git

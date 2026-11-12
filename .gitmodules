@@ -25,3 +25,6 @@
 [submodule "eMRTD-test-production"]
 	path = eMRTD-test-production
 	url = git@github.com:mandi-vrushi/eMRTD-test-production.git
+[submodule "EUDI_wallet"]
+	path = EUDI_wallet
+	url = git@github.com:mandi-vrushi/EUDI_wallet.git
